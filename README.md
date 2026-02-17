@@ -7,10 +7,3 @@ Languange: HTML5
 Frontend: 
 Hosting: dewacloud
 Server: NGINX 1.28.0
-
-## Screenshots
-Login 
-
-## Installation Guide
-Jujur banyak bgt..
-
